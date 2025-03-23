@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ornl.gov/staff-profile/sifat-afroj-moon'>Affiliat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

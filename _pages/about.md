@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ornl.gov/staff-profile/sifat-afroj-moon'>Affiliations</a>
 
 profile:
   align: right
